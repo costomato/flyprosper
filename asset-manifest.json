@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flyprosper/static/css/main.4924f5c8.chunk.css",
+    "main.js": "/flyprosper/static/js/main.491d258c.chunk.js",
+    "main.js.map": "/flyprosper/static/js/main.491d258c.chunk.js.map",
+    "runtime-main.js": "/flyprosper/static/js/runtime-main.f09af90e.js",
+    "runtime-main.js.map": "/flyprosper/static/js/runtime-main.f09af90e.js.map",
+    "static/js/2.9c4e764d.chunk.js": "/flyprosper/static/js/2.9c4e764d.chunk.js",
+    "static/js/2.9c4e764d.chunk.js.map": "/flyprosper/static/js/2.9c4e764d.chunk.js.map",
+    "static/js/3.63106103.chunk.js": "/flyprosper/static/js/3.63106103.chunk.js",
+    "static/js/3.63106103.chunk.js.map": "/flyprosper/static/js/3.63106103.chunk.js.map",
+    "index.html": "/flyprosper/index.html",
+    "static/css/main.4924f5c8.chunk.css.map": "/flyprosper/static/css/main.4924f5c8.chunk.css.map",
+    "static/js/2.9c4e764d.chunk.js.LICENSE.txt": "/flyprosper/static/js/2.9c4e764d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f09af90e.js",
+    "static/js/2.9c4e764d.chunk.js",
+    "static/css/main.4924f5c8.chunk.css",
+    "static/js/main.491d258c.chunk.js"
+  ]
+}
