@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Company portfolio",
 	"author": "Kaustubh",
-	"homepage": "https://costomato.github.io/flyprosper",
+	"homepage": ".",
 	"license": "MIT",
 	"private": true,
 	"dependencies": {
