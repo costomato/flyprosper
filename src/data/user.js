@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Your have reached Flyprosper",
+		title: "Flyprosper",
 		name: "Kaustubh",
 		email: "support@flyprosper.com",
 		logo: "../logo.png",
