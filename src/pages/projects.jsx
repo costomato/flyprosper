@@ -39,7 +39,7 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Unveiling Excellence: Explore FlyProsper's Remarkable Projects
+							Unveiling Excellence: Explore Xorvix's Remarkable Projects
 						</div>
 
 						<div className="subtitle projects-subtitle">
@@ -47,7 +47,7 @@ const Projects = () => {
 							<br /><br /> <b>
 								Check out the developer portfolio at
 								{' '}
-								<a href="https://costomato.github.io">dev-info.flyprosper.com</a>{' '}
+								<a href="https://costomato.github.io">dev-info.xorvix.com</a>{' '}
 								for more projects and info about the developer, Kaustubh</b>
 						</div>
 

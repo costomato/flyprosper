@@ -97,7 +97,7 @@ const Homepage = () => {
 									<br /><br /> <b>
 										Do check out the developer portfolio at
 										{' '}
-										<a href="https://costomato.github.io">dev-info.flyprosper.com</a>{' '}
+										<a href="https://costomato.github.io">dev-info.xorvix.com</a>{' '}
 										to know more about the developer, Kaustubh.</b>
 								</div>
 							</div>

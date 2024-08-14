@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Flyprosper",
+		title: "Xorvix",
 		name: "Kaustubh",
-		email: "support@flyprosper.com",
+		email: "support@xorvix.com",
 		logo: "../logo.png",
 	},
 
@@ -14,15 +14,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Hi, Welcome to FlyProsper! How can we help?",
+		title: "Hi, Welcome to Xorvix! How can we help?",
 		description:
-			"At FlyProsper, we are dedicated to turning ideas into reality. Our team of experienced professionals specializes in creating innovative Android apps, full-stack applications, and cutting-edge machine learning projects. With our expertise and passion for technology, we strive to provide exceptional solutions that cater to your unique needs. Whether you're a startup looking to launch your first mobile app or a large enterprise seeking advanced software development, we are here to bring your vision to life. Explore our portfolio, learn more about our services, and let's collaborate on transforming your ideas into success. Join us on this journey of innovation and prosperity with FlyProsper.",
+			"At Xorvix (formerly FlyProsper), we are dedicated to turning ideas into reality. Our team of experienced professionals specializes in creating innovative Android apps, full-stack applications, and cutting-edge machine learning projects. With our expertise and passion for technology, we strive to provide exceptional solutions that cater to your unique needs. Whether you're a startup looking to launch your first mobile app or a large enterprise seeking advanced software development, we are here to bring your vision to life. Explore our portfolio, learn more about our services, and let's collaborate on transforming your ideas into success. Join us on this journey of innovation and prosperity with Xorvix.",
 	},
 
 	about: {
-		title: "Empower Your Success with FlyProsper: Where Innovation Takes Flight",
+		title: "Empower Your Success with Xorvix: Where Innovation Takes Flight",
 		description:
-			"At FlyProsper, we are driven by a shared passion for transforming possibilities into extraordinary achievements. As a leading force in the world of technology and innovation, we specialize in creating exceptional Android apps, full-stack applications, and groundbreaking machine learning projects. Our talented team of experts harnesses the power of imagination and technical expertise to craft cutting-edge solutions that propel your business to new heights. We believe that success is not just a destination but a journey, and with FlyProsper as your trusted partner, your dreams and aspirations will soar beyond expectations. Experience the synergy of innovation and prosperity with FlyProsper and witness how we turn your ideas into reality, unlocking infinite possibilities for your business growth. Trust in our expertise, join us on this exhilarating flight, and together, let's reach for the skies of success.",
+			"At Xorvix (formerly FlyProsper), we are driven by a shared passion for transforming possibilities into extraordinary achievements. As a leading force in the world of technology and innovation, we specialize in creating exceptional Android apps, full-stack applications, and groundbreaking machine learning projects. Our talented team of experts harnesses the power of imagination and technical expertise to craft cutting-edge solutions that propel your business to new heights. We believe that success is not just a destination but a journey, and with Xorvix as your trusted partner, your dreams and aspirations will soar beyond expectations. Experience the synergy of innovation and prosperity with Xorvix and witness how we turn your ideas into reality, unlocking infinite possibilities for your business growth. Trust in our expertise, join us on this exhilarating flight, and together, let's reach for the skies of success.",
 	},
 
 	projects: [

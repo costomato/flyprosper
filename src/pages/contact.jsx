@@ -40,7 +40,7 @@ const Contact = () => {
 
 					<div className="contact-container">
 						<div className="title contact-title">
-							Connect with FlyProsper: Unleash Opportunities through Collaboration
+							Connect with Xorvix: Unleash Opportunities through Collaboration
 						</div>
 
 						<div className="subtitle contact-subtitle">
@@ -48,7 +48,7 @@ const Contact = () => {
 							<br /><br /> <b>
 								Reach out the developer, Kaustubh through his portfolio at
 								{' '}
-								<a href="https://costomato.github.io">dev-info.flyprosper.com</a>
+								<a href="https://costomato.github.io">dev-info.xorvix.com</a>
 							</b>
 						</div>
 					</div>

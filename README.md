@@ -1,3 +1,3 @@
-# Flyprosper
+# Xorvix
 
-This is the company website for Flyprosper.
+This is the company website for Xorvix (formerly Flyprosper).
